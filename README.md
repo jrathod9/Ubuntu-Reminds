@@ -17,3 +17,6 @@ Python program to give you a reminder at a specific time interval while you're u
 
 Don't worry about the time and work effeciently.  
 To end the process press <b>ctrl + Z</b>
+
+## Screenshot
+![Dialogbox](Screenshots/1.png?raw=true "Dialogbox")
