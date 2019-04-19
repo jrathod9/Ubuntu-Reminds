@@ -13,7 +13,7 @@ alert_message = []
 for arg in sys.argv:
     alert_message.append(arg)
 alert_message = alert_message[2:]
-print(alert_message)
+# print(alert_message)
 count = 0
 
 while True:
